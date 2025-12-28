@@ -40,7 +40,6 @@ Amazon S3 (Static Website Hosting)
   - JavaScript
 - **Version Control**
   - Git
-  - GitHub
 
 ---
 
@@ -107,7 +106,7 @@ AWS was selected due to:
 
 ## 📎 Live Demo
 ```
-https://dxxxxxxxx.cloudfront.net
+https://dli5fcrnoblwu.cloudfront.net
 ```
 
 ---
